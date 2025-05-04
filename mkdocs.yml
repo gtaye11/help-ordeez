@@ -1,0 +1,17 @@
+site_name: Ordeez Help Center
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Set Up Your Store: getting-started/setup-store.md
+      - Create a Product: getting-started/create-product.md
+      - Designing Storefront: getting-started/designing-storefront.md
+  - Products:
+      - Add Products: products/add-products.md
+      - Manage Inventory: products/manage-inventory.md
+  - Orders:
+      - Create Order: orders/create-order.md
+      - Invoices: orders/invoices.md
+  - Payments:
+      - Setup Payments: payments/setup-payments.md
+      - Refund Guide: payments/refund-guide.md
